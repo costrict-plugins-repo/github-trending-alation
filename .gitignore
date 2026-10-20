@@ -1,0 +1,20 @@
+.worktrees
+dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+venv/
+.venv/
+credentials.local
+token_cache.json
+.claude/
+.vscode/
+
+# Mac OS
+*.DS_Store
+
+# UV
+.python-version
+pyproject.toml
+uv.lock
